@@ -12,4 +12,4 @@ This project contains a Power BI dashboard that analyzes Walmart sales data for 
 - Payment Mode and Ship Mode Analysis
 - 
 ## For quick glance at the dashboard:
-[Walmart Sales Dashboard PDF](./Walmart_Dashboard.pdf)
+[Walmart Sales Dashboard PDF](https://github.com/Anjalithakur44/Walmart_Sales_Dashboard/blob/main/Walmart%20Sales/Walmart_Dashboard.pdf)
